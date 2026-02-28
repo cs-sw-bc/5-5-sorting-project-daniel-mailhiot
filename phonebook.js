@@ -176,6 +176,19 @@ function mergeSortByName(book) {
 }
 
 
+// Function calls for testing
+// console.log(phoneBook);
+
+// addEntry(phoneBook, { name: "Zara", phone: "7781002021", city: "Vancouver" });
+// updateEntry(phoneBook, "zara", { phone: "6475554321", city: "Calgary" });
+// deleteEntry(phoneBook, "Zara");
+
+// bubbleSortByName(phoneBook);
+// selectionSortByPhone(phoneBook);
+// console.log(mergeSortByName(phoneBook));
+
+// console.log(phoneBook);
+
 
 /*
 Reflection Questions
